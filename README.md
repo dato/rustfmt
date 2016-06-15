@@ -12,7 +12,7 @@ To install:
 ```
 cargo install rustfmt
 ```
-
+/b
 to run on a cargo project in the current working directory:
 
 ```
@@ -46,7 +46,7 @@ To install from source, first checkout to the tag or branch you want to install,
 ```
 cargo install --path  .
 ```
-This will install `rustfmt` in your `~/.cargo/bin`. Make sure to add `~/cargo/bin` directory to 
+This will install `rustfmt` in your `~/.cargo/bin`. Make sure to add `~/.cargo/bin` directory to 
 your PATH variable.
 
 ## Running
